@@ -1,3 +1,5 @@
 blue
 blue
-blue
+green
+yellow
+purple
